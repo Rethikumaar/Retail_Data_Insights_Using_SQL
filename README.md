@@ -76,13 +76,14 @@ Advanced SQL queries were developed to extract specific business insights.
 
 ## 5\. Skills
 
-This project demonstrates core competencies essential for a Data Analyst role:
+💻 SQL & Data Analysis Skills Demonstrated
+SQL Mastery: Expert use of CREATE, DELETE, GROUP BY, SUM, AVG, and COUNT(DISTINCT) for data definition, manipulation, and fundamental aggregation.
 
-  * **SQL Mastery:** Expert use of $\text{CREATE}$, $\text{DELETE}$, $\text{GROUP BY}$, $\text{SUM}$, $\text{AVG}$, $\text{COUNT(DISTINCT)}$.
-  * **Advanced SQL Techniques:** Proficient application of **Window Functions** ($\text{RANK()}$), **Common Table Expressions (CTEs)**, and **Subqueries** for complex calculations.
-  * **Data Manipulation:** Effective use of conditional logic ($\text{CASE}$ statement) and date/time functions ($\text{DATE\_FORMAT}$, $\text{YEAR}$, $\text{MONTH}$, $\text{HOUR}$).
-  * **Problem Solving:** Ability to translate abstract business questions into precise, executable SQL logic.
+Advanced SQL Techniques: Proficient application of Window Functions (e.g., RANK()), Common Table Expressions (CTEs), and Subqueries for complex, multi-step calculations.
 
+Data Manipulation: Effective use of conditional logic (CASE statement) and date/time functions (DATE_FORMAT, YEAR, MONTH, HOUR) for time-based segmentation and filtering.
+
+Problem Solving: Ability to translate abstract business questions into precise, executable SQL logic.
 -----
 
 ## 6\. Results & Business Recommendations
